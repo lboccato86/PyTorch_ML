@@ -1,4 +1,4 @@
-# Repositório -- Exemplos de Aplicação de Redes Neurais usando PyTorch
+# Repositório - Exemplos de Aplicação de Redes Neurais usando PyTorch
 
 Referência: _workflow_ padrão de _machine learning_ e _PyTorch_.
 
